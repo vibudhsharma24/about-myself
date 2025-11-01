@@ -58,7 +58,7 @@ A **locally hosted AI therapy assistant** built using **LLMs (LLaMA, Transformer
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vibudhsharma24&show_icons=true&theme=tokyonight" height="160" />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibudhsharma24&layout=compact&theme=tokyonight" height="160" />
 </p>
 
